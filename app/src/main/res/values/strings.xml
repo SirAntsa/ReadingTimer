@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reading Timer</string>
+    <string name="b_StartReading">Start Reading</string>
+    <string name="b_StopReading">Stop Reading</string>
+    <string name="currentPage">Current Page</string>
+    <string name="pageCount">Page Count</string>
+
+
+</resources>
+
